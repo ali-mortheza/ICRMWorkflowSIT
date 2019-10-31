@@ -1,0 +1,556 @@
+2019-10-31 11:28:20,572  INFO [main] BasePage:23 - Before navigating to: 'https://idwicrmapt13.mlijkt01.manulife.com/CRMGOLDSIT/main.aspx'
+2019-10-31 11:28:36,803  INFO [main] BasePage:28 - Navigated to:'https://idwicrmapt13.mlijkt01.manulife.com/CRMGOLDSIT/main.aspx'
+2019-10-31 11:28:37,600  INFO [main] BasePage:83 - Trying to find Element By : By.xpath: //button[@id='butBegin']
+2019-10-31 11:28:37,624  INFO [main] BasePage:88 - Found Element By : By.xpath: //button[@id='butBegin']
+2019-10-31 11:28:37,632  INFO [main] BasePage:83 - Trying to find Element By : By.xpath: //button[@id='butBegin']
+2019-10-31 11:28:37,655  INFO [main] BasePage:88 - Found Element By : By.xpath: //button[@id='butBegin']
+2019-10-31 11:28:37,656  INFO [main] BasePage:43 - Trying to click on: [[ChromeDriver: chrome on XP (975f4b25642b48aa4e6e8b1720844130)] -> xpath: //button[@id='butBegin']]
+2019-10-31 11:28:37,774  INFO [main] BasePage:48 - Clicked on: [[ChromeDriver: chrome on XP (975f4b25642b48aa4e6e8b1720844130)] -> xpath: //button[@id='butBegin']]
+2019-10-31 11:28:37,784  INFO [main] BasePage:83 - Trying to find Element By : By.xpath: //span[@id='TabCS']//a[@class='navTabButtonLink']
+2019-10-31 11:28:37,803  INFO [main] BasePage:88 - Found Element By : By.xpath: //span[@id='TabCS']//a[@class='navTabButtonLink']
+2019-10-31 11:28:37,863  INFO [main] BasePage:83 - Trying to find Element By : By.xpath: //span[@id='TabCS']//a[@class='navTabButtonLink']
+2019-10-31 11:28:37,875  INFO [main] BasePage:88 - Found Element By : By.xpath: //span[@id='TabCS']//a[@class='navTabButtonLink']
+2019-10-31 11:28:37,875  INFO [main] BasePage:83 - Trying to find Element By : By.xpath: //span[@id='TabCS']//a[@class='navTabButtonLink']
+2019-10-31 11:28:37,885  INFO [main] BasePage:88 - Found Element By : By.xpath: //span[@id='TabCS']//a[@class='navTabButtonLink']
+2019-10-31 11:28:37,886  INFO [main] BasePage:43 - Trying to click on: [[ChromeDriver: chrome on XP (975f4b25642b48aa4e6e8b1720844130)] -> xpath: //span[@id='TabCS']//a[@class='navTabButtonLink']]
+2019-10-31 11:28:37,997  INFO [main] BasePage:48 - Clicked on: [[ChromeDriver: chrome on XP (975f4b25642b48aa4e6e8b1720844130)] -> xpath: //span[@id='TabCS']//a[@class='navTabButtonLink']]
+2019-10-31 11:28:37,999  INFO [main] BasePage:83 - Trying to find Element By : By.xpath: //a[@id='nav_cases']//span[@class='nav-rowLabel']
+2019-10-31 11:28:38,022  INFO [main] BasePage:88 - Found Element By : By.xpath: //a[@id='nav_cases']//span[@class='nav-rowLabel']
+2019-10-31 11:28:38,023  INFO [main] BasePage:83 - Trying to find Element By : By.xpath: //a[@id='nav_cases']//span[@class='nav-rowLabel']
+2019-10-31 11:28:38,037  INFO [main] BasePage:88 - Found Element By : By.xpath: //a[@id='nav_cases']//span[@class='nav-rowLabel']
+2019-10-31 11:28:38,038  INFO [main] BasePage:43 - Trying to click on: [[ChromeDriver: chrome on XP (975f4b25642b48aa4e6e8b1720844130)] -> xpath: //a[@id='nav_cases']//span[@class='nav-rowLabel']]
+2019-10-31 11:28:38,179  INFO [main] BasePage:48 - Clicked on: [[ChromeDriver: chrome on XP (975f4b25642b48aa4e6e8b1720844130)] -> xpath: //a[@id='nav_cases']//span[@class='nav-rowLabel']]
+2019-10-31 11:28:40,174  INFO [main] BasePage:83 - Trying to find Element By : By.xpath: //li[@id='incident|NoRelationship|HomePageGrid|Mscrm.HomepageGrid.incident.NewRecord']//span//span
+2019-10-31 11:28:41,107  INFO [main] BasePage:88 - Found Element By : By.xpath: //li[@id='incident|NoRelationship|HomePageGrid|Mscrm.HomepageGrid.incident.NewRecord']//span//span
+2019-10-31 11:28:41,107  INFO [main] BasePage:83 - Trying to find Element By : By.xpath: //li[@id='incident|NoRelationship|HomePageGrid|Mscrm.HomepageGrid.incident.NewRecord']//span//span
+2019-10-31 11:28:41,120  INFO [main] BasePage:88 - Found Element By : By.xpath: //li[@id='incident|NoRelationship|HomePageGrid|Mscrm.HomepageGrid.incident.NewRecord']//span//span
+2019-10-31 11:28:41,187  INFO [main] BasePage:83 - Trying to find Element By : By.xpath: //li[@id='incident|NoRelationship|HomePageGrid|Mscrm.HomepageGrid.incident.NewRecord']//span//span
+2019-10-31 11:28:41,201  INFO [main] BasePage:88 - Found Element By : By.xpath: //li[@id='incident|NoRelationship|HomePageGrid|Mscrm.HomepageGrid.incident.NewRecord']//span//span
+2019-10-31 11:28:41,202  INFO [main] BasePage:83 - Trying to find Element By : By.xpath: //li[@id='incident|NoRelationship|HomePageGrid|Mscrm.HomepageGrid.incident.NewRecord']//span//span
+2019-10-31 11:28:41,214  INFO [main] BasePage:88 - Found Element By : By.xpath: //li[@id='incident|NoRelationship|HomePageGrid|Mscrm.HomepageGrid.incident.NewRecord']//span//span
+2019-10-31 11:28:48,086  INFO [main] BasePage:83 - Trying to find Element By : By.xpath: //input[@id='mli_policy_ledit']
+2019-10-31 11:28:48,108  INFO [main] BasePage:88 - Found Element By : By.xpath: //input[@id='mli_policy_ledit']
+2019-10-31 11:28:48,109  INFO [main] BasePage:83 - Trying to find Element By : By.xpath: //input[@id='mli_policy_ledit']
+2019-10-31 11:28:48,125  INFO [main] BasePage:88 - Found Element By : By.xpath: //input[@id='mli_policy_ledit']
+2019-10-31 11:28:48,126  INFO [main] BasePage:83 - Trying to find Element By : By.xpath: //input[@id='mli_policy_ledit']
+2019-10-31 11:28:48,140  INFO [main] BasePage:88 - Found Element By : By.xpath: //input[@id='mli_policy_ledit']
+2019-10-31 11:28:48,177  INFO [main] BasePage:83 - Trying to find Element By : By.xpath: //img[@id='mli_policy_i']
+2019-10-31 11:28:48,200  INFO [main] BasePage:88 - Found Element By : By.xpath: //img[@id='mli_policy_i']
+2019-10-31 11:28:48,201  INFO [main] BasePage:83 - Trying to find Element By : By.xpath: //img[@id='mli_policy_i']
+2019-10-31 11:28:48,215  INFO [main] BasePage:88 - Found Element By : By.xpath: //img[@id='mli_policy_i']
+2019-10-31 11:28:48,216  INFO [main] BasePage:83 - Trying to find Element By : By.xpath: //img[@id='mli_policy_i']
+2019-10-31 11:28:48,229  INFO [main] BasePage:88 - Found Element By : By.xpath: //img[@id='mli_policy_i']
+2019-10-31 11:28:48,436  INFO [main] BasePage:83 - Trying to find Element By : By.xpath: //ul[@id='mli_policy_IMenu']//li[1]
+2019-10-31 11:28:48,456  INFO [main] BasePage:88 - Found Element By : By.xpath: //ul[@id='mli_policy_IMenu']//li[1]
+2019-10-31 11:28:48,456  INFO [main] BasePage:83 - Trying to find Element By : By.xpath: //ul[@id='mli_policy_IMenu']//li[1]
+2019-10-31 11:28:48,471  INFO [main] BasePage:88 - Found Element By : By.xpath: //ul[@id='mli_policy_IMenu']//li[1]
+2019-10-31 11:28:48,472  INFO [main] BasePage:83 - Trying to find Element By : By.xpath: //ul[@id='mli_policy_IMenu']//li[1]
+2019-10-31 11:28:48,487  INFO [main] BasePage:88 - Found Element By : By.xpath: //ul[@id='mli_policy_IMenu']//li[1]
+2019-10-31 11:28:49,012  INFO [main] BasePage:83 - Trying to find Element By : By.xpath: //input[@id='customerid_ledit']
+2019-10-31 11:28:49,032  INFO [main] BasePage:88 - Found Element By : By.xpath: //input[@id='customerid_ledit']
+2019-10-31 11:28:49,033  INFO [main] BasePage:83 - Trying to find Element By : By.xpath: //input[@id='customerid_ledit']
+2019-10-31 11:28:49,047  INFO [main] BasePage:88 - Found Element By : By.xpath: //input[@id='customerid_ledit']
+2019-10-31 11:28:49,048  INFO [main] BasePage:83 - Trying to find Element By : By.xpath: //input[@id='customerid_ledit']
+2019-10-31 11:28:49,061  INFO [main] BasePage:88 - Found Element By : By.xpath: //input[@id='customerid_ledit']
+2019-10-31 11:28:49,083  INFO [main] BasePage:83 - Trying to find Element By : By.xpath: //img[@id='customerid_i']
+2019-10-31 11:28:49,102  INFO [main] BasePage:88 - Found Element By : By.xpath: //img[@id='customerid_i']
+2019-10-31 11:28:49,102  INFO [main] BasePage:83 - Trying to find Element By : By.xpath: //img[@id='customerid_i']
+2019-10-31 11:28:49,116  INFO [main] BasePage:88 - Found Element By : By.xpath: //img[@id='customerid_i']
+2019-10-31 11:28:49,644  INFO [main] BasePage:83 - Trying to find Element By : By.xpath: //ul[@id='customerid_IMenu']//li[1]
+2019-10-31 11:28:49,665  INFO [main] BasePage:88 - Found Element By : By.xpath: //ul[@id='customerid_IMenu']//li[1]
+2019-10-31 11:28:49,665  INFO [main] BasePage:83 - Trying to find Element By : By.xpath: //ul[@id='customerid_IMenu']//li[1]
+2019-10-31 11:28:49,765  INFO [main] BasePage:88 - Found Element By : By.xpath: //ul[@id='customerid_IMenu']//li[1]
+2019-10-31 11:28:49,767  INFO [main] BasePage:83 - Trying to find Element By : By.xpath: //ul[@id='customerid_IMenu']//li[1]
+2019-10-31 11:28:49,780  INFO [main] BasePage:88 - Found Element By : By.xpath: //ul[@id='customerid_IMenu']//li[1]
+2019-10-31 11:28:50,053  INFO [main] BasePage:83 - Trying to find Element By : By.xpath: //label[@id='Touchpoint_label']
+2019-10-31 11:28:50,122  INFO [main] BasePage:88 - Found Element By : By.xpath: //label[@id='Touchpoint_label']
+2019-10-31 11:28:50,122  INFO [main] BasePage:83 - Trying to find Element By : By.xpath: //label[@id='Touchpoint_label']
+2019-10-31 11:28:50,154  INFO [main] BasePage:88 - Found Element By : By.xpath: //label[@id='Touchpoint_label']
+2019-10-31 11:28:50,155  INFO [main] BasePage:83 - Trying to find Element By : By.xpath: //label[@id='Touchpoint_label']
+2019-10-31 11:28:50,171  INFO [main] BasePage:88 - Found Element By : By.xpath: //label[@id='Touchpoint_label']
+2019-10-31 11:28:50,192  INFO [main] BasePage:83 - Trying to find Element By : By.id: mli_touchpoint_i
+2019-10-31 11:28:50,211  INFO [main] BasePage:88 - Found Element By : By.id: mli_touchpoint_i
+2019-10-31 11:28:50,239  INFO [main] BasePage:83 - Trying to find Element By : By.tagName: option
+2019-10-31 11:28:50,255  INFO [main] BasePage:88 - Found Element By : By.tagName: option
+2019-10-31 11:28:50,283  INFO [main] BasePage:43 - Trying to click on: [[[[ChromeDriver: chrome on XP (975f4b25642b48aa4e6e8b1720844130)] -> id: mli_touchpoint_i]] -> tag name: option]
+2019-10-31 11:28:50,345  INFO [main] BasePage:48 - Clicked on: [[[[ChromeDriver: chrome on XP (975f4b25642b48aa4e6e8b1720844130)] -> id: mli_touchpoint_i]] -> tag name: option]
+2019-10-31 11:28:50,345  INFO [main] BasePage:83 - Trying to find Element By : By.xpath: //label[@id='Verification Result_label']
+2019-10-31 11:28:50,379  INFO [main] BasePage:88 - Found Element By : By.xpath: //label[@id='Verification Result_label']
+2019-10-31 11:28:50,380  INFO [main] BasePage:83 - Trying to find Element By : By.xpath: //label[@id='Verification Result_label']
+2019-10-31 11:28:50,391  INFO [main] BasePage:88 - Found Element By : By.xpath: //label[@id='Verification Result_label']
+2019-10-31 11:28:50,392  INFO [main] BasePage:83 - Trying to find Element By : By.xpath: //label[@id='Verification Result_label']
+2019-10-31 11:28:50,404  INFO [main] BasePage:88 - Found Element By : By.xpath: //label[@id='Verification Result_label']
+2019-10-31 11:28:50,419  INFO [main] BasePage:83 - Trying to find Element By : By.id: mli_verificationresult_i
+2019-10-31 11:28:50,437  INFO [main] BasePage:88 - Found Element By : By.id: mli_verificationresult_i
+2019-10-31 11:28:50,459  INFO [main] BasePage:83 - Trying to find Element By : By.tagName: option
+2019-10-31 11:28:50,473  INFO [main] BasePage:88 - Found Element By : By.tagName: option
+2019-10-31 11:28:50,504  INFO [main] BasePage:43 - Trying to click on: [[[[ChromeDriver: chrome on XP (975f4b25642b48aa4e6e8b1720844130)] -> id: mli_verificationresult_i]] -> tag name: option]
+2019-10-31 11:28:50,554  INFO [main] BasePage:48 - Clicked on: [[[[ChromeDriver: chrome on XP (975f4b25642b48aa4e6e8b1720844130)] -> id: mli_verificationresult_i]] -> tag name: option]
+2019-10-31 11:28:50,555  INFO [main] BasePage:83 - Trying to find Element By : By.xpath: //label[@id='Case Category_label']
+2019-10-31 11:28:50,590  INFO [main] BasePage:88 - Found Element By : By.xpath: //label[@id='Case Category_label']
+2019-10-31 11:28:50,590  INFO [main] BasePage:83 - Trying to find Element By : By.xpath: //label[@id='Case Category_label']
+2019-10-31 11:28:50,603  INFO [main] BasePage:88 - Found Element By : By.xpath: //label[@id='Case Category_label']
+2019-10-31 11:28:50,604  INFO [main] BasePage:83 - Trying to find Element By : By.xpath: //label[@id='Case Category_label']
+2019-10-31 11:28:50,620  INFO [main] BasePage:88 - Found Element By : By.xpath: //label[@id='Case Category_label']
+2019-10-31 11:28:50,637  INFO [main] BasePage:83 - Trying to find Element By : By.id: mli_casecategory_i
+2019-10-31 11:28:50,653  INFO [main] BasePage:88 - Found Element By : By.id: mli_casecategory_i
+2019-10-31 11:28:50,672  INFO [main] BasePage:83 - Trying to find Element By : By.tagName: option
+2019-10-31 11:28:50,689  INFO [main] BasePage:88 - Found Element By : By.tagName: option
+2019-10-31 11:28:50,725  INFO [main] BasePage:43 - Trying to click on: [[[[ChromeDriver: chrome on XP (975f4b25642b48aa4e6e8b1720844130)] -> id: mli_casecategory_i]] -> tag name: option]
+2019-10-31 11:28:50,779  INFO [main] BasePage:48 - Clicked on: [[[[ChromeDriver: chrome on XP (975f4b25642b48aa4e6e8b1720844130)] -> id: mli_casecategory_i]] -> tag name: option]
+2019-10-31 11:28:50,779  INFO [main] BasePage:83 - Trying to find Element By : By.xpath: //input[@id='mli_tasksubjectid_ledit']
+2019-10-31 11:28:50,824  INFO [main] BasePage:88 - Found Element By : By.xpath: //input[@id='mli_tasksubjectid_ledit']
+2019-10-31 11:28:50,834  INFO [main] BasePage:83 - Trying to find Element By : By.xpath: //img[@id='mli_tasksubjectid_i']
+2019-10-31 11:28:50,857  INFO [main] BasePage:88 - Found Element By : By.xpath: //img[@id='mli_tasksubjectid_i']
+2019-10-31 11:28:50,857  INFO [main] BasePage:83 - Trying to find Element By : By.xpath: //img[@id='mli_tasksubjectid_i']
+2019-10-31 11:28:50,874  INFO [main] BasePage:88 - Found Element By : By.xpath: //img[@id='mli_tasksubjectid_i']
+2019-10-31 11:28:50,874  INFO [main] BasePage:83 - Trying to find Element By : By.xpath: //img[@id='mli_tasksubjectid_i']
+2019-10-31 11:28:50,889  INFO [main] BasePage:88 - Found Element By : By.xpath: //img[@id='mli_tasksubjectid_i']
+2019-10-31 11:28:51,207  INFO [main] BasePage:83 - Trying to find Element By : By.xpath: //ul[@id='mli_tasksubjectid_IMenu']//li[1]
+2019-10-31 11:28:51,229  INFO [main] BasePage:88 - Found Element By : By.xpath: //ul[@id='mli_tasksubjectid_IMenu']//li[1]
+2019-10-31 11:28:51,274  INFO [main] BasePage:83 - Trying to find Element By : By.xpath: //ul[@id='mli_tasksubjectid_IMenu']//li[1]
+2019-10-31 11:28:51,289  INFO [main] BasePage:88 - Found Element By : By.xpath: //ul[@id='mli_tasksubjectid_IMenu']//li[1]
+2019-10-31 11:28:51,289  INFO [main] BasePage:83 - Trying to find Element By : By.xpath: //ul[@id='mli_tasksubjectid_IMenu']//li[1]
+2019-10-31 11:28:51,301  INFO [main] BasePage:88 - Found Element By : By.xpath: //ul[@id='mli_tasksubjectid_IMenu']//li[1]
+2019-10-31 11:28:51,621  INFO [main] BasePage:83 - Trying to find Element By : By.xpath: //li[@id='incident|NoRelationship|Form|Mscrm.Form.incident.Save']//span//span
+2019-10-31 11:28:51,640  INFO [main] BasePage:88 - Found Element By : By.xpath: //li[@id='incident|NoRelationship|Form|Mscrm.Form.incident.Save']//span//span
+2019-10-31 11:28:51,797  INFO [main] BasePage:83 - Trying to find Element By : By.xpath: //li[@id='incident|NoRelationship|Form|Mscrm.Form.incident.Save']//span//span
+2019-10-31 11:28:51,812  INFO [main] BasePage:88 - Found Element By : By.xpath: //li[@id='incident|NoRelationship|Form|Mscrm.Form.incident.Save']//span//span
+2019-10-31 11:28:51,813  INFO [main] BasePage:83 - Trying to find Element By : By.xpath: //li[@id='incident|NoRelationship|Form|Mscrm.Form.incident.Save']//span//span
+2019-10-31 11:28:51,854  INFO [main] BasePage:88 - Found Element By : By.xpath: //li[@id='incident|NoRelationship|Form|Mscrm.Form.incident.Save']//span//span
+2019-10-31 11:28:51,896  INFO [main] BasePage:83 - Trying to find Element By : By.xpath: //li[@id='incident|NoRelationship|Form|Mscrm.Form.incident.Save']//span//span
+2019-10-31 11:28:51,912  INFO [main] BasePage:88 - Found Element By : By.xpath: //li[@id='incident|NoRelationship|Form|Mscrm.Form.incident.Save']//span//span
+2019-10-31 11:28:51,912  INFO [main] BasePage:83 - Trying to find Element By : By.xpath: //li[@id='incident|NoRelationship|Form|Mscrm.Form.incident.Save']//span//span
+2019-10-31 11:28:51,928  INFO [main] BasePage:88 - Found Element By : By.xpath: //li[@id='incident|NoRelationship|Form|Mscrm.Form.incident.Save']//span//span
+2019-10-31 11:28:51,929  INFO [main] BasePage:43 - Trying to click on: [[ChromeDriver: chrome on XP (975f4b25642b48aa4e6e8b1720844130)] -> xpath: //li[@id='incident|NoRelationship|Form|Mscrm.Form.incident.Save']//span//span]
+2019-10-31 11:28:52,046  INFO [main] BasePage:48 - Clicked on: [[ChromeDriver: chrome on XP (975f4b25642b48aa4e6e8b1720844130)] -> xpath: //li[@id='incident|NoRelationship|Form|Mscrm.Form.incident.Save']//span//span]
+2019-10-31 11:28:52,047  INFO [main] BasePage:83 - Trying to find Element By : By.xpath: //li[@id='incident|NoRelationship|Form|mli.incident.SaveAndSoute.Button']//span//span
+2019-10-31 11:28:54,353  INFO [main] BasePage:88 - Found Element By : By.xpath: //li[@id='incident|NoRelationship|Form|mli.incident.SaveAndSoute.Button']//span//span
+2019-10-31 11:28:55,063  INFO [main] BasePage:83 - Trying to find Element By : By.xpath: //li[@id='incident|NoRelationship|Form|Mscrm.Form.incident.Save']//span//span
+2019-10-31 11:28:55,074  INFO [main] BasePage:88 - Found Element By : By.xpath: //li[@id='incident|NoRelationship|Form|Mscrm.Form.incident.Save']//span//span
+2019-10-31 11:28:55,098  INFO [main] BasePage:83 - Trying to find Element By : By.xpath: //li[@id='incident|NoRelationship|Form|Mscrm.Form.incident.Save']//span//span
+2019-10-31 11:28:55,110  INFO [main] BasePage:88 - Found Element By : By.xpath: //li[@id='incident|NoRelationship|Form|Mscrm.Form.incident.Save']//span//span
+2019-10-31 11:28:55,111  INFO [main] BasePage:83 - Trying to find Element By : By.xpath: //li[@id='incident|NoRelationship|Form|Mscrm.Form.incident.Save']//span//span
+2019-10-31 11:28:55,124  INFO [main] BasePage:88 - Found Element By : By.xpath: //li[@id='incident|NoRelationship|Form|Mscrm.Form.incident.Save']//span//span
+2019-10-31 11:28:55,160  INFO [main] BasePage:83 - Trying to find Element By : By.xpath: //li[@id='incident|NoRelationship|Form|mli.incident.SaveAndSoute.Button']//span//span
+2019-10-31 11:28:55,173  INFO [main] BasePage:88 - Found Element By : By.xpath: //li[@id='incident|NoRelationship|Form|mli.incident.SaveAndSoute.Button']//span//span
+2019-10-31 11:28:55,174  INFO [main] BasePage:83 - Trying to find Element By : By.xpath: //li[@id='incident|NoRelationship|Form|mli.incident.SaveAndSoute.Button']//span//span
+2019-10-31 11:28:55,187  INFO [main] BasePage:88 - Found Element By : By.xpath: //li[@id='incident|NoRelationship|Form|mli.incident.SaveAndSoute.Button']//span//span
+2019-10-31 11:28:55,187  INFO [main] BasePage:43 - Trying to click on: [[ChromeDriver: chrome on XP (975f4b25642b48aa4e6e8b1720844130)] -> xpath: //li[@id='incident|NoRelationship|Form|mli.incident.SaveAndSoute.Button']//span//span]
+2019-10-31 11:28:55,326  INFO [main] BasePage:48 - Clicked on: [[ChromeDriver: chrome on XP (975f4b25642b48aa4e6e8b1720844130)] -> xpath: //li[@id='incident|NoRelationship|Form|mli.incident.SaveAndSoute.Button']//span//span]
+2019-10-31 11:29:00,719  INFO [main] BasePage:83 - Trying to find Element By : By.xpath: //button[@id='butBegin']
+2019-10-31 11:29:00,736  INFO [main] BasePage:88 - Found Element By : By.xpath: //button[@id='butBegin']
+2019-10-31 11:29:00,778  INFO [main] BasePage:83 - Trying to find Element By : By.xpath: //button[@id='butBegin']
+2019-10-31 11:29:00,789  INFO [main] BasePage:88 - Found Element By : By.xpath: //button[@id='butBegin']
+2019-10-31 11:29:00,789  INFO [main] BasePage:83 - Trying to find Element By : By.xpath: //button[@id='butBegin']
+2019-10-31 11:29:00,801  INFO [main] BasePage:88 - Found Element By : By.xpath: //button[@id='butBegin']
+2019-10-31 11:29:00,801  INFO [main] BasePage:43 - Trying to click on: [[ChromeDriver: chrome on XP (975f4b25642b48aa4e6e8b1720844130)] -> xpath: //button[@id='butBegin']]
+2019-10-31 11:29:00,912  INFO [main] BasePage:48 - Clicked on: [[ChromeDriver: chrome on XP (975f4b25642b48aa4e6e8b1720844130)] -> xpath: //button[@id='butBegin']]
+2019-10-31 11:29:00,975  INFO [main] BasePage:83 - Trying to find Element By : By.xpath: //label[contains(@id,'Status_label')]
+2019-10-31 11:29:01,280  INFO [main] BasePage:88 - Found Element By : By.xpath: //label[contains(@id,'Status_label')]
+2019-10-31 11:29:01,280  INFO [main] BasePage:83 - Trying to find Element By : By.xpath: //label[contains(@id,'Status_label')]
+2019-10-31 11:29:01,299  INFO [main] BasePage:88 - Found Element By : By.xpath: //label[contains(@id,'Status_label')]
+2019-10-31 11:29:05,693  INFO [main] BasePage:83 - Trying to find Element By : By.xpath: //button[@id='butBegin']
+2019-10-31 11:29:05,711  INFO [main] BasePage:88 - Found Element By : By.xpath: //button[@id='butBegin']
+2019-10-31 11:29:05,743  INFO [main] BasePage:83 - Trying to find Element By : By.xpath: //button[@id='butBegin']
+2019-10-31 11:29:05,754  INFO [main] BasePage:88 - Found Element By : By.xpath: //button[@id='butBegin']
+2019-10-31 11:29:05,754  INFO [main] BasePage:83 - Trying to find Element By : By.xpath: //button[@id='butBegin']
+2019-10-31 11:29:05,765  INFO [main] BasePage:88 - Found Element By : By.xpath: //button[@id='butBegin']
+2019-10-31 11:29:05,766  INFO [main] BasePage:43 - Trying to click on: [[ChromeDriver: chrome on XP (975f4b25642b48aa4e6e8b1720844130)] -> xpath: //button[@id='butBegin']]
+2019-10-31 11:29:05,859  INFO [main] BasePage:48 - Clicked on: [[ChromeDriver: chrome on XP (975f4b25642b48aa4e6e8b1720844130)] -> xpath: //button[@id='butBegin']]
+2019-10-31 11:29:05,930  INFO [main] BasePage:83 - Trying to find Element By : By.xpath: //label[contains(@id,'Status_label')]
+2019-10-31 11:29:05,947  INFO [main] BasePage:88 - Found Element By : By.xpath: //label[contains(@id,'Status_label')]
+2019-10-31 11:29:05,948  INFO [main] BasePage:83 - Trying to find Element By : By.xpath: //label[contains(@id,'Status_label')]
+2019-10-31 11:29:05,960  INFO [main] BasePage:88 - Found Element By : By.xpath: //label[contains(@id,'Status_label')]
+2019-10-31 11:29:10,639  INFO [main] BasePage:83 - Trying to find Element By : By.xpath: //button[@id='butBegin']
+2019-10-31 11:29:10,660  INFO [main] BasePage:88 - Found Element By : By.xpath: //button[@id='butBegin']
+2019-10-31 11:29:10,693  INFO [main] BasePage:83 - Trying to find Element By : By.xpath: //button[@id='butBegin']
+2019-10-31 11:29:10,704  INFO [main] BasePage:88 - Found Element By : By.xpath: //button[@id='butBegin']
+2019-10-31 11:29:10,704  INFO [main] BasePage:83 - Trying to find Element By : By.xpath: //button[@id='butBegin']
+2019-10-31 11:29:10,715  INFO [main] BasePage:88 - Found Element By : By.xpath: //button[@id='butBegin']
+2019-10-31 11:29:10,715  INFO [main] BasePage:43 - Trying to click on: [[ChromeDriver: chrome on XP (975f4b25642b48aa4e6e8b1720844130)] -> xpath: //button[@id='butBegin']]
+2019-10-31 11:29:10,813  INFO [main] BasePage:48 - Clicked on: [[ChromeDriver: chrome on XP (975f4b25642b48aa4e6e8b1720844130)] -> xpath: //button[@id='butBegin']]
+2019-10-31 11:29:10,874  INFO [main] BasePage:83 - Trying to find Element By : By.xpath: //label[contains(@id,'Status_label')]
+2019-10-31 11:29:10,898  INFO [main] BasePage:88 - Found Element By : By.xpath: //label[contains(@id,'Status_label')]
+2019-10-31 11:29:10,899  INFO [main] BasePage:83 - Trying to find Element By : By.xpath: //label[contains(@id,'Status_label')]
+2019-10-31 11:29:10,913  INFO [main] BasePage:88 - Found Element By : By.xpath: //label[contains(@id,'Status_label')]
+2019-10-31 11:29:14,785  INFO [main] BasePage:83 - Trying to find Element By : By.xpath: //button[@id='butBegin']
+2019-10-31 11:29:14,797  INFO [main] BasePage:88 - Found Element By : By.xpath: //button[@id='butBegin']
+2019-10-31 11:29:14,830  INFO [main] BasePage:83 - Trying to find Element By : By.xpath: //button[@id='butBegin']
+2019-10-31 11:29:14,841  INFO [main] BasePage:88 - Found Element By : By.xpath: //button[@id='butBegin']
+2019-10-31 11:29:14,841  INFO [main] BasePage:83 - Trying to find Element By : By.xpath: //button[@id='butBegin']
+2019-10-31 11:29:14,853  INFO [main] BasePage:88 - Found Element By : By.xpath: //button[@id='butBegin']
+2019-10-31 11:29:14,853  INFO [main] BasePage:43 - Trying to click on: [[ChromeDriver: chrome on XP (975f4b25642b48aa4e6e8b1720844130)] -> xpath: //button[@id='butBegin']]
+2019-10-31 11:29:14,955  INFO [main] BasePage:48 - Clicked on: [[ChromeDriver: chrome on XP (975f4b25642b48aa4e6e8b1720844130)] -> xpath: //button[@id='butBegin']]
+2019-10-31 11:29:15,023  INFO [main] BasePage:83 - Trying to find Element By : By.xpath: //label[contains(@id,'Status_label')]
+2019-10-31 11:29:15,042  INFO [main] BasePage:88 - Found Element By : By.xpath: //label[contains(@id,'Status_label')]
+2019-10-31 11:29:15,042  INFO [main] BasePage:83 - Trying to find Element By : By.xpath: //label[contains(@id,'Status_label')]
+2019-10-31 11:29:15,056  INFO [main] BasePage:88 - Found Element By : By.xpath: //label[contains(@id,'Status_label')]
+2019-10-31 11:29:18,924  INFO [main] BasePage:83 - Trying to find Element By : By.xpath: //button[@id='butBegin']
+2019-10-31 11:29:18,937  INFO [main] BasePage:88 - Found Element By : By.xpath: //button[@id='butBegin']
+2019-10-31 11:29:18,972  INFO [main] BasePage:83 - Trying to find Element By : By.xpath: //button[@id='butBegin']
+2019-10-31 11:29:18,984  INFO [main] BasePage:88 - Found Element By : By.xpath: //button[@id='butBegin']
+2019-10-31 11:29:18,984  INFO [main] BasePage:83 - Trying to find Element By : By.xpath: //button[@id='butBegin']
+2019-10-31 11:29:18,997  INFO [main] BasePage:88 - Found Element By : By.xpath: //button[@id='butBegin']
+2019-10-31 11:29:18,997  INFO [main] BasePage:43 - Trying to click on: [[ChromeDriver: chrome on XP (975f4b25642b48aa4e6e8b1720844130)] -> xpath: //button[@id='butBegin']]
+2019-10-31 11:29:19,141  INFO [main] BasePage:48 - Clicked on: [[ChromeDriver: chrome on XP (975f4b25642b48aa4e6e8b1720844130)] -> xpath: //button[@id='butBegin']]
+2019-10-31 11:29:19,203  INFO [main] BasePage:83 - Trying to find Element By : By.xpath: //label[contains(@id,'Status_label')]
+2019-10-31 11:29:19,225  INFO [main] BasePage:88 - Found Element By : By.xpath: //label[contains(@id,'Status_label')]
+2019-10-31 11:29:19,225  INFO [main] BasePage:83 - Trying to find Element By : By.xpath: //label[contains(@id,'Status_label')]
+2019-10-31 11:29:19,242  INFO [main] BasePage:88 - Found Element By : By.xpath: //label[contains(@id,'Status_label')]
+2019-10-31 11:29:19,265  INFO [main] BasePage:83 - Trying to find Element By : By.xpath: //label[contains(@id,'Status_label')]
+2019-10-31 11:29:19,283  INFO [main] BasePage:88 - Found Element By : By.xpath: //label[contains(@id,'Status_label')]
+2019-10-31 11:29:19,283  INFO [main] BasePage:83 - Trying to find Element By : By.xpath: //label[contains(@id,'Status_label')]
+2019-10-31 11:29:19,300  INFO [main] BasePage:88 - Found Element By : By.xpath: //label[contains(@id,'Status_label')]
+2019-10-31 11:29:19,323  INFO [main] BasePage:83 - Trying to find Element By : By.xpath: //span[@id='navTabLogoTextId']//img
+2019-10-31 11:29:19,342  INFO [main] BasePage:88 - Found Element By : By.xpath: //span[@id='navTabLogoTextId']//img
+2019-10-31 11:29:19,343  INFO [main] BasePage:83 - Trying to find Element By : By.xpath: //span[@id='navTabLogoTextId']//img
+2019-10-31 11:29:19,355  INFO [main] BasePage:88 - Found Element By : By.xpath: //span[@id='navTabLogoTextId']//img
+2019-10-31 11:29:19,401  INFO [main] BasePage:83 - Trying to find Element By : By.xpath: //span[@id='navTabLogoTextId']//img
+2019-10-31 11:29:19,413  INFO [main] BasePage:88 - Found Element By : By.xpath: //span[@id='navTabLogoTextId']//img
+2019-10-31 11:29:19,414  INFO [main] BasePage:83 - Trying to find Element By : By.xpath: //span[@id='navTabLogoTextId']//img
+2019-10-31 11:29:19,425  INFO [main] BasePage:88 - Found Element By : By.xpath: //span[@id='navTabLogoTextId']//img
+2019-10-31 11:29:19,425  INFO [main] BasePage:43 - Trying to click on: [[ChromeDriver: chrome on XP (975f4b25642b48aa4e6e8b1720844130)] -> xpath: //span[@id='navTabLogoTextId']//img]
+2019-10-31 11:29:19,518  INFO [main] BasePage:48 - Clicked on: [[ChromeDriver: chrome on XP (975f4b25642b48aa4e6e8b1720844130)] -> xpath: //span[@id='navTabLogoTextId']//img]
+2019-10-31 11:29:20,285  INFO [main] BasePage:83 - Trying to find Element By : By.xpath: //span[@id='TabCS']//a[@class='navTabButtonLink']
+2019-10-31 11:29:20,303  INFO [main] BasePage:88 - Found Element By : By.xpath: //span[@id='TabCS']//a[@class='navTabButtonLink']
+2019-10-31 11:29:20,380  INFO [main] BasePage:83 - Trying to find Element By : By.xpath: //span[@id='TabCS']//a[@class='navTabButtonLink']
+2019-10-31 11:29:20,394  INFO [main] BasePage:88 - Found Element By : By.xpath: //span[@id='TabCS']//a[@class='navTabButtonLink']
+2019-10-31 11:29:20,395  INFO [main] BasePage:83 - Trying to find Element By : By.xpath: //span[@id='TabCS']//a[@class='navTabButtonLink']
+2019-10-31 11:29:20,407  INFO [main] BasePage:88 - Found Element By : By.xpath: //span[@id='TabCS']//a[@class='navTabButtonLink']
+2019-10-31 11:29:20,407  INFO [main] BasePage:43 - Trying to click on: [[ChromeDriver: chrome on XP (975f4b25642b48aa4e6e8b1720844130)] -> xpath: //span[@id='TabCS']//a[@class='navTabButtonLink']]
+2019-10-31 11:29:20,504  INFO [main] BasePage:48 - Clicked on: [[ChromeDriver: chrome on XP (975f4b25642b48aa4e6e8b1720844130)] -> xpath: //span[@id='TabCS']//a[@class='navTabButtonLink']]
+2019-10-31 11:29:20,505  INFO [main] BasePage:83 - Trying to find Element By : By.xpath: //a[@id='nav_cases']//span[@class='nav-rowLabel']
+2019-10-31 11:29:20,525  INFO [main] BasePage:88 - Found Element By : By.xpath: //a[@id='nav_cases']//span[@class='nav-rowLabel']
+2019-10-31 11:29:20,525  INFO [main] BasePage:83 - Trying to find Element By : By.xpath: //a[@id='nav_cases']//span[@class='nav-rowLabel']
+2019-10-31 11:29:20,543  INFO [main] BasePage:88 - Found Element By : By.xpath: //a[@id='nav_cases']//span[@class='nav-rowLabel']
+2019-10-31 11:29:20,544  INFO [main] BasePage:43 - Trying to click on: [[ChromeDriver: chrome on XP (975f4b25642b48aa4e6e8b1720844130)] -> xpath: //a[@id='nav_cases']//span[@class='nav-rowLabel']]
+2019-10-31 11:29:20,679  INFO [main] BasePage:48 - Clicked on: [[ChromeDriver: chrome on XP (975f4b25642b48aa4e6e8b1720844130)] -> xpath: //a[@id='nav_cases']//span[@class='nav-rowLabel']]
+2019-10-31 11:29:22,249  INFO [main] BasePage:83 - Trying to find Element By : By.xpath: //li[@id='incident|NoRelationship|HomePageGrid|Mscrm.HomepageGrid.incident.NewRecord']//span//span
+2019-10-31 11:29:22,328  INFO [main] BasePage:88 - Found Element By : By.xpath: //li[@id='incident|NoRelationship|HomePageGrid|Mscrm.HomepageGrid.incident.NewRecord']//span//span
+2019-10-31 11:29:22,328  INFO [main] BasePage:83 - Trying to find Element By : By.xpath: //li[@id='incident|NoRelationship|HomePageGrid|Mscrm.HomepageGrid.incident.NewRecord']//span//span
+2019-10-31 11:29:22,340  INFO [main] BasePage:88 - Found Element By : By.xpath: //li[@id='incident|NoRelationship|HomePageGrid|Mscrm.HomepageGrid.incident.NewRecord']//span//span
+2019-10-31 11:29:22,375  INFO [main] BasePage:83 - Trying to find Element By : By.xpath: //li[@id='incident|NoRelationship|HomePageGrid|Mscrm.HomepageGrid.incident.NewRecord']//span//span
+2019-10-31 11:29:22,386  INFO [main] BasePage:88 - Found Element By : By.xpath: //li[@id='incident|NoRelationship|HomePageGrid|Mscrm.HomepageGrid.incident.NewRecord']//span//span
+2019-10-31 11:29:22,387  INFO [main] BasePage:83 - Trying to find Element By : By.xpath: //li[@id='incident|NoRelationship|HomePageGrid|Mscrm.HomepageGrid.incident.NewRecord']//span//span
+2019-10-31 11:29:22,399  INFO [main] BasePage:88 - Found Element By : By.xpath: //li[@id='incident|NoRelationship|HomePageGrid|Mscrm.HomepageGrid.incident.NewRecord']//span//span
+2019-10-31 11:29:23,983  INFO [main] BasePage:83 - Trying to find Element By : By.xpath: //input[@id='mli_policy_ledit']
+2019-10-31 11:29:24,001  INFO [main] BasePage:88 - Found Element By : By.xpath: //input[@id='mli_policy_ledit']
+2019-10-31 11:29:24,001  INFO [main] BasePage:83 - Trying to find Element By : By.xpath: //input[@id='mli_policy_ledit']
+2019-10-31 11:29:24,014  INFO [main] BasePage:88 - Found Element By : By.xpath: //input[@id='mli_policy_ledit']
+2019-10-31 11:29:24,014  INFO [main] BasePage:83 - Trying to find Element By : By.xpath: //input[@id='mli_policy_ledit']
+2019-10-31 11:29:24,027  INFO [main] BasePage:88 - Found Element By : By.xpath: //input[@id='mli_policy_ledit']
+2019-10-31 11:29:24,064  INFO [main] BasePage:83 - Trying to find Element By : By.xpath: //img[@id='mli_policy_i']
+2019-10-31 11:29:24,086  INFO [main] BasePage:88 - Found Element By : By.xpath: //img[@id='mli_policy_i']
+2019-10-31 11:29:24,087  INFO [main] BasePage:83 - Trying to find Element By : By.xpath: //img[@id='mli_policy_i']
+2019-10-31 11:29:24,100  INFO [main] BasePage:88 - Found Element By : By.xpath: //img[@id='mli_policy_i']
+2019-10-31 11:29:24,101  INFO [main] BasePage:83 - Trying to find Element By : By.xpath: //img[@id='mli_policy_i']
+2019-10-31 11:29:24,113  INFO [main] BasePage:88 - Found Element By : By.xpath: //img[@id='mli_policy_i']
+2019-10-31 11:29:24,348  INFO [main] BasePage:83 - Trying to find Element By : By.xpath: //ul[@id='mli_policy_IMenu']//li[1]
+2019-10-31 11:29:24,368  INFO [main] BasePage:88 - Found Element By : By.xpath: //ul[@id='mli_policy_IMenu']//li[1]
+2019-10-31 11:29:24,369  INFO [main] BasePage:83 - Trying to find Element By : By.xpath: //ul[@id='mli_policy_IMenu']//li[1]
+2019-10-31 11:29:24,382  INFO [main] BasePage:88 - Found Element By : By.xpath: //ul[@id='mli_policy_IMenu']//li[1]
+2019-10-31 11:29:24,382  INFO [main] BasePage:83 - Trying to find Element By : By.xpath: //ul[@id='mli_policy_IMenu']//li[1]
+2019-10-31 11:29:24,397  INFO [main] BasePage:88 - Found Element By : By.xpath: //ul[@id='mli_policy_IMenu']//li[1]
+2019-10-31 11:29:24,621  INFO [main] BasePage:83 - Trying to find Element By : By.xpath: //input[@id='customerid_ledit']
+2019-10-31 11:29:24,653  INFO [main] BasePage:88 - Found Element By : By.xpath: //input[@id='customerid_ledit']
+2019-10-31 11:29:24,654  INFO [main] BasePage:83 - Trying to find Element By : By.xpath: //input[@id='customerid_ledit']
+2019-10-31 11:29:24,685  INFO [main] BasePage:88 - Found Element By : By.xpath: //input[@id='customerid_ledit']
+2019-10-31 11:29:24,685  INFO [main] BasePage:83 - Trying to find Element By : By.xpath: //input[@id='customerid_ledit']
+2019-10-31 11:29:24,705  INFO [main] BasePage:88 - Found Element By : By.xpath: //input[@id='customerid_ledit']
+2019-10-31 11:29:24,741  INFO [main] BasePage:83 - Trying to find Element By : By.xpath: //img[@id='customerid_i']
+2019-10-31 11:29:24,781  INFO [main] BasePage:88 - Found Element By : By.xpath: //img[@id='customerid_i']
+2019-10-31 11:29:24,781  INFO [main] BasePage:83 - Trying to find Element By : By.xpath: //img[@id='customerid_i']
+2019-10-31 11:29:24,800  INFO [main] BasePage:88 - Found Element By : By.xpath: //img[@id='customerid_i']
+2019-10-31 11:29:25,311  INFO [main] BasePage:83 - Trying to find Element By : By.xpath: //ul[@id='customerid_IMenu']//li[1]
+2019-10-31 11:29:25,330  INFO [main] BasePage:88 - Found Element By : By.xpath: //ul[@id='customerid_IMenu']//li[1]
+2019-10-31 11:29:25,330  INFO [main] BasePage:83 - Trying to find Element By : By.xpath: //ul[@id='customerid_IMenu']//li[1]
+2019-10-31 11:29:25,344  INFO [main] BasePage:88 - Found Element By : By.xpath: //ul[@id='customerid_IMenu']//li[1]
+2019-10-31 11:29:25,344  INFO [main] BasePage:83 - Trying to find Element By : By.xpath: //ul[@id='customerid_IMenu']//li[1]
+2019-10-31 11:29:25,356  INFO [main] BasePage:88 - Found Element By : By.xpath: //ul[@id='customerid_IMenu']//li[1]
+2019-10-31 11:29:25,718  INFO [main] BasePage:83 - Trying to find Element By : By.xpath: //label[@id='Touchpoint_label']
+2019-10-31 11:29:25,786  INFO [main] BasePage:88 - Found Element By : By.xpath: //label[@id='Touchpoint_label']
+2019-10-31 11:29:25,786  INFO [main] BasePage:83 - Trying to find Element By : By.xpath: //label[@id='Touchpoint_label']
+2019-10-31 11:29:25,801  INFO [main] BasePage:88 - Found Element By : By.xpath: //label[@id='Touchpoint_label']
+2019-10-31 11:29:25,802  INFO [main] BasePage:83 - Trying to find Element By : By.xpath: //label[@id='Touchpoint_label']
+2019-10-31 11:29:25,814  INFO [main] BasePage:88 - Found Element By : By.xpath: //label[@id='Touchpoint_label']
+2019-10-31 11:29:25,832  INFO [main] BasePage:83 - Trying to find Element By : By.id: mli_touchpoint_i
+2019-10-31 11:29:25,847  INFO [main] BasePage:88 - Found Element By : By.id: mli_touchpoint_i
+2019-10-31 11:29:25,861  INFO [main] BasePage:83 - Trying to find Element By : By.tagName: option
+2019-10-31 11:29:25,876  INFO [main] BasePage:88 - Found Element By : By.tagName: option
+2019-10-31 11:29:25,896  INFO [main] BasePage:43 - Trying to click on: [[[[ChromeDriver: chrome on XP (975f4b25642b48aa4e6e8b1720844130)] -> id: mli_touchpoint_i]] -> tag name: option]
+2019-10-31 11:29:25,943  INFO [main] BasePage:48 - Clicked on: [[[[ChromeDriver: chrome on XP (975f4b25642b48aa4e6e8b1720844130)] -> id: mli_touchpoint_i]] -> tag name: option]
+2019-10-31 11:29:25,944  INFO [main] BasePage:83 - Trying to find Element By : By.xpath: //label[@id='Verification Result_label']
+2019-10-31 11:29:25,990  INFO [main] BasePage:88 - Found Element By : By.xpath: //label[@id='Verification Result_label']
+2019-10-31 11:29:25,990  INFO [main] BasePage:83 - Trying to find Element By : By.xpath: //label[@id='Verification Result_label']
+2019-10-31 11:29:26,002  INFO [main] BasePage:88 - Found Element By : By.xpath: //label[@id='Verification Result_label']
+2019-10-31 11:29:26,003  INFO [main] BasePage:83 - Trying to find Element By : By.xpath: //label[@id='Verification Result_label']
+2019-10-31 11:29:26,014  INFO [main] BasePage:88 - Found Element By : By.xpath: //label[@id='Verification Result_label']
+2019-10-31 11:29:26,028  INFO [main] BasePage:83 - Trying to find Element By : By.id: mli_verificationresult_i
+2019-10-31 11:29:26,050  INFO [main] BasePage:88 - Found Element By : By.id: mli_verificationresult_i
+2019-10-31 11:29:26,066  INFO [main] BasePage:83 - Trying to find Element By : By.tagName: option
+2019-10-31 11:29:26,079  INFO [main] BasePage:88 - Found Element By : By.tagName: option
+2019-10-31 11:29:26,108  INFO [main] BasePage:43 - Trying to click on: [[[[ChromeDriver: chrome on XP (975f4b25642b48aa4e6e8b1720844130)] -> id: mli_verificationresult_i]] -> tag name: option]
+2019-10-31 11:29:26,157  INFO [main] BasePage:48 - Clicked on: [[[[ChromeDriver: chrome on XP (975f4b25642b48aa4e6e8b1720844130)] -> id: mli_verificationresult_i]] -> tag name: option]
+2019-10-31 11:29:26,157  INFO [main] BasePage:83 - Trying to find Element By : By.xpath: //label[@id='Case Category_label']
+2019-10-31 11:29:26,188  INFO [main] BasePage:88 - Found Element By : By.xpath: //label[@id='Case Category_label']
+2019-10-31 11:29:26,189  INFO [main] BasePage:83 - Trying to find Element By : By.xpath: //label[@id='Case Category_label']
+2019-10-31 11:29:26,201  INFO [main] BasePage:88 - Found Element By : By.xpath: //label[@id='Case Category_label']
+2019-10-31 11:29:26,201  INFO [main] BasePage:83 - Trying to find Element By : By.xpath: //label[@id='Case Category_label']
+2019-10-31 11:29:26,214  INFO [main] BasePage:88 - Found Element By : By.xpath: //label[@id='Case Category_label']
+2019-10-31 11:29:26,229  INFO [main] BasePage:83 - Trying to find Element By : By.id: mli_casecategory_i
+2019-10-31 11:29:26,243  INFO [main] BasePage:88 - Found Element By : By.id: mli_casecategory_i
+2019-10-31 11:29:26,261  INFO [main] BasePage:83 - Trying to find Element By : By.tagName: option
+2019-10-31 11:29:26,275  INFO [main] BasePage:88 - Found Element By : By.tagName: option
+2019-10-31 11:29:26,305  INFO [main] BasePage:43 - Trying to click on: [[[[ChromeDriver: chrome on XP (975f4b25642b48aa4e6e8b1720844130)] -> id: mli_casecategory_i]] -> tag name: option]
+2019-10-31 11:29:26,353  INFO [main] BasePage:48 - Clicked on: [[[[ChromeDriver: chrome on XP (975f4b25642b48aa4e6e8b1720844130)] -> id: mli_casecategory_i]] -> tag name: option]
+2019-10-31 11:29:26,354  INFO [main] BasePage:83 - Trying to find Element By : By.xpath: //input[@id='mli_tasksubjectid_ledit']
+2019-10-31 11:29:26,403  INFO [main] BasePage:88 - Found Element By : By.xpath: //input[@id='mli_tasksubjectid_ledit']
+2019-10-31 11:29:26,419  INFO [main] BasePage:83 - Trying to find Element By : By.xpath: //img[@id='mli_tasksubjectid_i']
+2019-10-31 11:29:26,440  INFO [main] BasePage:88 - Found Element By : By.xpath: //img[@id='mli_tasksubjectid_i']
+2019-10-31 11:29:26,440  INFO [main] BasePage:83 - Trying to find Element By : By.xpath: //img[@id='mli_tasksubjectid_i']
+2019-10-31 11:29:26,454  INFO [main] BasePage:88 - Found Element By : By.xpath: //img[@id='mli_tasksubjectid_i']
+2019-10-31 11:29:26,454  INFO [main] BasePage:83 - Trying to find Element By : By.xpath: //img[@id='mli_tasksubjectid_i']
+2019-10-31 11:29:26,469  INFO [main] BasePage:88 - Found Element By : By.xpath: //img[@id='mli_tasksubjectid_i']
+2019-10-31 11:29:26,804  INFO [main] BasePage:83 - Trying to find Element By : By.xpath: //ul[@id='mli_tasksubjectid_IMenu']//li[1]
+2019-10-31 11:29:26,821  INFO [main] BasePage:88 - Found Element By : By.xpath: //ul[@id='mli_tasksubjectid_IMenu']//li[1]
+2019-10-31 11:29:26,853  INFO [main] BasePage:83 - Trying to find Element By : By.xpath: //ul[@id='mli_tasksubjectid_IMenu']//li[1]
+2019-10-31 11:29:26,866  INFO [main] BasePage:88 - Found Element By : By.xpath: //ul[@id='mli_tasksubjectid_IMenu']//li[1]
+2019-10-31 11:29:26,866  INFO [main] BasePage:83 - Trying to find Element By : By.xpath: //ul[@id='mli_tasksubjectid_IMenu']//li[1]
+2019-10-31 11:29:26,880  INFO [main] BasePage:88 - Found Element By : By.xpath: //ul[@id='mli_tasksubjectid_IMenu']//li[1]
+2019-10-31 11:29:27,082  INFO [main] BasePage:83 - Trying to find Element By : By.xpath: //li[@id='incident|NoRelationship|Form|Mscrm.Form.incident.Save']//span//span
+2019-10-31 11:29:27,111  INFO [main] BasePage:88 - Found Element By : By.xpath: //li[@id='incident|NoRelationship|Form|Mscrm.Form.incident.Save']//span//span
+2019-10-31 11:29:27,177  INFO [main] BasePage:83 - Trying to find Element By : By.xpath: //li[@id='incident|NoRelationship|Form|Mscrm.Form.incident.Save']//span//span
+2019-10-31 11:29:27,187  INFO [main] BasePage:88 - Found Element By : By.xpath: //li[@id='incident|NoRelationship|Form|Mscrm.Form.incident.Save']//span//span
+2019-10-31 11:29:27,187  INFO [main] BasePage:83 - Trying to find Element By : By.xpath: //li[@id='incident|NoRelationship|Form|Mscrm.Form.incident.Save']//span//span
+2019-10-31 11:29:27,197  INFO [main] BasePage:88 - Found Element By : By.xpath: //li[@id='incident|NoRelationship|Form|Mscrm.Form.incident.Save']//span//span
+2019-10-31 11:29:27,246  INFO [main] BasePage:83 - Trying to find Element By : By.xpath: //li[@id='incident|NoRelationship|Form|Mscrm.Form.incident.Save']//span//span
+2019-10-31 11:29:27,258  INFO [main] BasePage:88 - Found Element By : By.xpath: //li[@id='incident|NoRelationship|Form|Mscrm.Form.incident.Save']//span//span
+2019-10-31 11:29:27,259  INFO [main] BasePage:83 - Trying to find Element By : By.xpath: //li[@id='incident|NoRelationship|Form|Mscrm.Form.incident.Save']//span//span
+2019-10-31 11:29:27,269  INFO [main] BasePage:88 - Found Element By : By.xpath: //li[@id='incident|NoRelationship|Form|Mscrm.Form.incident.Save']//span//span
+2019-10-31 11:29:27,269  INFO [main] BasePage:43 - Trying to click on: [[ChromeDriver: chrome on XP (975f4b25642b48aa4e6e8b1720844130)] -> xpath: //li[@id='incident|NoRelationship|Form|Mscrm.Form.incident.Save']//span//span]
+2019-10-31 11:29:27,360  INFO [main] BasePage:48 - Clicked on: [[ChromeDriver: chrome on XP (975f4b25642b48aa4e6e8b1720844130)] -> xpath: //li[@id='incident|NoRelationship|Form|Mscrm.Form.incident.Save']//span//span]
+2019-10-31 11:29:27,361  INFO [main] BasePage:83 - Trying to find Element By : By.xpath: //li[@id='incident|NoRelationship|Form|mli.incident.SaveAndSoute.Button']//span//span
+2019-10-31 11:29:28,726  INFO [main] BasePage:88 - Found Element By : By.xpath: //li[@id='incident|NoRelationship|Form|mli.incident.SaveAndSoute.Button']//span//span
+2019-10-31 11:29:29,328  INFO [main] BasePage:83 - Trying to find Element By : By.xpath: //li[@id='incident|NoRelationship|Form|Mscrm.Form.incident.Save']//span//span
+2019-10-31 11:29:29,340  INFO [main] BasePage:88 - Found Element By : By.xpath: //li[@id='incident|NoRelationship|Form|Mscrm.Form.incident.Save']//span//span
+2019-10-31 11:29:29,362  INFO [main] BasePage:83 - Trying to find Element By : By.xpath: //li[@id='incident|NoRelationship|Form|Mscrm.Form.incident.Save']//span//span
+2019-10-31 11:29:29,374  INFO [main] BasePage:88 - Found Element By : By.xpath: //li[@id='incident|NoRelationship|Form|Mscrm.Form.incident.Save']//span//span
+2019-10-31 11:29:29,375  INFO [main] BasePage:83 - Trying to find Element By : By.xpath: //li[@id='incident|NoRelationship|Form|Mscrm.Form.incident.Save']//span//span
+2019-10-31 11:29:29,386  INFO [main] BasePage:88 - Found Element By : By.xpath: //li[@id='incident|NoRelationship|Form|Mscrm.Form.incident.Save']//span//span
+2019-10-31 11:29:29,416  INFO [main] BasePage:83 - Trying to find Element By : By.xpath: //li[@id='incident|NoRelationship|Form|mli.incident.SaveAndSoute.Button']//span//span
+2019-10-31 11:29:29,428  INFO [main] BasePage:88 - Found Element By : By.xpath: //li[@id='incident|NoRelationship|Form|mli.incident.SaveAndSoute.Button']//span//span
+2019-10-31 11:29:29,428  INFO [main] BasePage:83 - Trying to find Element By : By.xpath: //li[@id='incident|NoRelationship|Form|mli.incident.SaveAndSoute.Button']//span//span
+2019-10-31 11:29:29,446  INFO [main] BasePage:88 - Found Element By : By.xpath: //li[@id='incident|NoRelationship|Form|mli.incident.SaveAndSoute.Button']//span//span
+2019-10-31 11:29:29,446  INFO [main] BasePage:43 - Trying to click on: [[ChromeDriver: chrome on XP (975f4b25642b48aa4e6e8b1720844130)] -> xpath: //li[@id='incident|NoRelationship|Form|mli.incident.SaveAndSoute.Button']//span//span]
+2019-10-31 11:29:29,592  INFO [main] BasePage:48 - Clicked on: [[ChromeDriver: chrome on XP (975f4b25642b48aa4e6e8b1720844130)] -> xpath: //li[@id='incident|NoRelationship|Form|mli.incident.SaveAndSoute.Button']//span//span]
+2019-10-31 11:29:33,628  INFO [main] BasePage:83 - Trying to find Element By : By.xpath: //button[@id='butBegin']
+2019-10-31 11:29:33,638  INFO [main] BasePage:88 - Found Element By : By.xpath: //button[@id='butBegin']
+2019-10-31 11:29:33,671  INFO [main] BasePage:83 - Trying to find Element By : By.xpath: //button[@id='butBegin']
+2019-10-31 11:29:33,682  INFO [main] BasePage:88 - Found Element By : By.xpath: //button[@id='butBegin']
+2019-10-31 11:29:33,683  INFO [main] BasePage:83 - Trying to find Element By : By.xpath: //button[@id='butBegin']
+2019-10-31 11:29:33,693  INFO [main] BasePage:88 - Found Element By : By.xpath: //button[@id='butBegin']
+2019-10-31 11:29:33,693  INFO [main] BasePage:43 - Trying to click on: [[ChromeDriver: chrome on XP (975f4b25642b48aa4e6e8b1720844130)] -> xpath: //button[@id='butBegin']]
+2019-10-31 11:29:33,818  INFO [main] BasePage:48 - Clicked on: [[ChromeDriver: chrome on XP (975f4b25642b48aa4e6e8b1720844130)] -> xpath: //button[@id='butBegin']]
+2019-10-31 11:29:33,883  INFO [main] BasePage:83 - Trying to find Element By : By.xpath: //label[contains(@id,'Status_label')]
+2019-10-31 11:29:33,897  INFO [main] BasePage:88 - Found Element By : By.xpath: //label[contains(@id,'Status_label')]
+2019-10-31 11:29:33,898  INFO [main] BasePage:83 - Trying to find Element By : By.xpath: //label[contains(@id,'Status_label')]
+2019-10-31 11:29:33,909  INFO [main] BasePage:88 - Found Element By : By.xpath: //label[contains(@id,'Status_label')]
+2019-10-31 11:29:39,008  INFO [main] BasePage:83 - Trying to find Element By : By.xpath: //button[@id='butBegin']
+2019-10-31 11:29:39,019  INFO [main] BasePage:88 - Found Element By : By.xpath: //button[@id='butBegin']
+2019-10-31 11:29:39,054  INFO [main] BasePage:83 - Trying to find Element By : By.xpath: //button[@id='butBegin']
+2019-10-31 11:29:39,067  INFO [main] BasePage:88 - Found Element By : By.xpath: //button[@id='butBegin']
+2019-10-31 11:29:39,067  INFO [main] BasePage:83 - Trying to find Element By : By.xpath: //button[@id='butBegin']
+2019-10-31 11:29:39,079  INFO [main] BasePage:88 - Found Element By : By.xpath: //button[@id='butBegin']
+2019-10-31 11:29:39,079  INFO [main] BasePage:43 - Trying to click on: [[ChromeDriver: chrome on XP (975f4b25642b48aa4e6e8b1720844130)] -> xpath: //button[@id='butBegin']]
+2019-10-31 11:29:39,173  INFO [main] BasePage:48 - Clicked on: [[ChromeDriver: chrome on XP (975f4b25642b48aa4e6e8b1720844130)] -> xpath: //button[@id='butBegin']]
+2019-10-31 11:29:39,218  INFO [main] BasePage:83 - Trying to find Element By : By.xpath: //label[contains(@id,'Status_label')]
+2019-10-31 11:29:39,233  INFO [main] BasePage:88 - Found Element By : By.xpath: //label[contains(@id,'Status_label')]
+2019-10-31 11:29:39,233  INFO [main] BasePage:83 - Trying to find Element By : By.xpath: //label[contains(@id,'Status_label')]
+2019-10-31 11:29:39,248  INFO [main] BasePage:88 - Found Element By : By.xpath: //label[contains(@id,'Status_label')]
+2019-10-31 11:29:39,269  INFO [main] BasePage:83 - Trying to find Element By : By.xpath: //label[contains(@id,'Status_label')]
+2019-10-31 11:29:39,287  INFO [main] BasePage:88 - Found Element By : By.xpath: //label[contains(@id,'Status_label')]
+2019-10-31 11:29:39,287  INFO [main] BasePage:83 - Trying to find Element By : By.xpath: //label[contains(@id,'Status_label')]
+2019-10-31 11:29:39,303  INFO [main] BasePage:88 - Found Element By : By.xpath: //label[contains(@id,'Status_label')]
+2019-10-31 11:29:39,322  INFO [main] BasePage:83 - Trying to find Element By : By.xpath: //li[@id='moreCommands']//span
+2019-10-31 11:29:39,341  INFO [main] BasePage:88 - Found Element By : By.xpath: //li[@id='moreCommands']//span
+2019-10-31 11:29:39,871  INFO [main] BasePage:83 - Trying to find Element By : By.xpath: //span[@id='navTabLogoTextId']//img
+2019-10-31 11:29:39,904  INFO [main] BasePage:88 - Found Element By : By.xpath: //span[@id='navTabLogoTextId']//img
+2019-10-31 11:29:39,904  INFO [main] BasePage:83 - Trying to find Element By : By.xpath: //span[@id='navTabLogoTextId']//img
+2019-10-31 11:29:39,922  INFO [main] BasePage:88 - Found Element By : By.xpath: //span[@id='navTabLogoTextId']//img
+2019-10-31 11:29:39,967  INFO [main] BasePage:83 - Trying to find Element By : By.xpath: //span[@id='navTabLogoTextId']//img
+2019-10-31 11:29:39,979  INFO [main] BasePage:88 - Found Element By : By.xpath: //span[@id='navTabLogoTextId']//img
+2019-10-31 11:29:39,980  INFO [main] BasePage:83 - Trying to find Element By : By.xpath: //span[@id='navTabLogoTextId']//img
+2019-10-31 11:29:39,991  INFO [main] BasePage:88 - Found Element By : By.xpath: //span[@id='navTabLogoTextId']//img
+2019-10-31 11:29:39,991  INFO [main] BasePage:43 - Trying to click on: [[ChromeDriver: chrome on XP (975f4b25642b48aa4e6e8b1720844130)] -> xpath: //span[@id='navTabLogoTextId']//img]
+2019-10-31 11:29:40,901  INFO [main] BasePage:48 - Clicked on: [[ChromeDriver: chrome on XP (975f4b25642b48aa4e6e8b1720844130)] -> xpath: //span[@id='navTabLogoTextId']//img]
+2019-10-31 11:29:40,913  INFO [main] BasePage:83 - Trying to find Element By : By.xpath: //span[@id='TabCS']//a[@class='navTabButtonLink']
+2019-10-31 11:29:40,936  INFO [main] BasePage:88 - Found Element By : By.xpath: //span[@id='TabCS']//a[@class='navTabButtonLink']
+2019-10-31 11:29:40,985  INFO [main] BasePage:83 - Trying to find Element By : By.xpath: //span[@id='TabCS']//a[@class='navTabButtonLink']
+2019-10-31 11:29:40,997  INFO [main] BasePage:88 - Found Element By : By.xpath: //span[@id='TabCS']//a[@class='navTabButtonLink']
+2019-10-31 11:29:40,997  INFO [main] BasePage:83 - Trying to find Element By : By.xpath: //span[@id='TabCS']//a[@class='navTabButtonLink']
+2019-10-31 11:29:41,010  INFO [main] BasePage:88 - Found Element By : By.xpath: //span[@id='TabCS']//a[@class='navTabButtonLink']
+2019-10-31 11:29:41,010  INFO [main] BasePage:43 - Trying to click on: [[ChromeDriver: chrome on XP (975f4b25642b48aa4e6e8b1720844130)] -> xpath: //span[@id='TabCS']//a[@class='navTabButtonLink']]
+2019-10-31 11:29:41,112  INFO [main] BasePage:48 - Clicked on: [[ChromeDriver: chrome on XP (975f4b25642b48aa4e6e8b1720844130)] -> xpath: //span[@id='TabCS']//a[@class='navTabButtonLink']]
+2019-10-31 11:29:41,113  INFO [main] BasePage:83 - Trying to find Element By : By.xpath: //a[@id='nav_cases']//span[@class='nav-rowLabel']
+2019-10-31 11:29:41,130  INFO [main] BasePage:88 - Found Element By : By.xpath: //a[@id='nav_cases']//span[@class='nav-rowLabel']
+2019-10-31 11:29:41,130  INFO [main] BasePage:83 - Trying to find Element By : By.xpath: //a[@id='nav_cases']//span[@class='nav-rowLabel']
+2019-10-31 11:29:41,144  INFO [main] BasePage:88 - Found Element By : By.xpath: //a[@id='nav_cases']//span[@class='nav-rowLabel']
+2019-10-31 11:29:41,145  INFO [main] BasePage:43 - Trying to click on: [[ChromeDriver: chrome on XP (975f4b25642b48aa4e6e8b1720844130)] -> xpath: //a[@id='nav_cases']//span[@class='nav-rowLabel']]
+2019-10-31 11:29:41,251  INFO [main] BasePage:48 - Clicked on: [[ChromeDriver: chrome on XP (975f4b25642b48aa4e6e8b1720844130)] -> xpath: //a[@id='nav_cases']//span[@class='nav-rowLabel']]
+2019-10-31 11:29:42,748  INFO [main] BasePage:83 - Trying to find Element By : By.xpath: //li[@id='incident|NoRelationship|HomePageGrid|Mscrm.HomepageGrid.incident.NewRecord']//span//span
+2019-10-31 11:29:42,776  INFO [main] BasePage:88 - Found Element By : By.xpath: //li[@id='incident|NoRelationship|HomePageGrid|Mscrm.HomepageGrid.incident.NewRecord']//span//span
+2019-10-31 11:29:42,777  INFO [main] BasePage:83 - Trying to find Element By : By.xpath: //li[@id='incident|NoRelationship|HomePageGrid|Mscrm.HomepageGrid.incident.NewRecord']//span//span
+2019-10-31 11:29:42,791  INFO [main] BasePage:88 - Found Element By : By.xpath: //li[@id='incident|NoRelationship|HomePageGrid|Mscrm.HomepageGrid.incident.NewRecord']//span//span
+2019-10-31 11:29:42,831  INFO [main] BasePage:83 - Trying to find Element By : By.xpath: //li[@id='incident|NoRelationship|HomePageGrid|Mscrm.HomepageGrid.incident.NewRecord']//span//span
+2019-10-31 11:29:42,841  INFO [main] BasePage:88 - Found Element By : By.xpath: //li[@id='incident|NoRelationship|HomePageGrid|Mscrm.HomepageGrid.incident.NewRecord']//span//span
+2019-10-31 11:29:42,842  INFO [main] BasePage:83 - Trying to find Element By : By.xpath: //li[@id='incident|NoRelationship|HomePageGrid|Mscrm.HomepageGrid.incident.NewRecord']//span//span
+2019-10-31 11:29:42,856  INFO [main] BasePage:88 - Found Element By : By.xpath: //li[@id='incident|NoRelationship|HomePageGrid|Mscrm.HomepageGrid.incident.NewRecord']//span//span
+2019-10-31 11:29:44,166  INFO [main] BasePage:83 - Trying to find Element By : By.xpath: //input[@id='mli_policy_ledit']
+2019-10-31 11:29:44,188  INFO [main] BasePage:88 - Found Element By : By.xpath: //input[@id='mli_policy_ledit']
+2019-10-31 11:29:44,189  INFO [main] BasePage:83 - Trying to find Element By : By.xpath: //input[@id='mli_policy_ledit']
+2019-10-31 11:29:44,203  INFO [main] BasePage:88 - Found Element By : By.xpath: //input[@id='mli_policy_ledit']
+2019-10-31 11:29:44,203  INFO [main] BasePage:83 - Trying to find Element By : By.xpath: //input[@id='mli_policy_ledit']
+2019-10-31 11:29:44,218  INFO [main] BasePage:88 - Found Element By : By.xpath: //input[@id='mli_policy_ledit']
+2019-10-31 11:29:44,305  INFO [main] BasePage:83 - Trying to find Element By : By.xpath: //img[@id='mli_policy_i']
+2019-10-31 11:29:44,321  INFO [main] BasePage:88 - Found Element By : By.xpath: //img[@id='mli_policy_i']
+2019-10-31 11:29:44,321  INFO [main] BasePage:83 - Trying to find Element By : By.xpath: //img[@id='mli_policy_i']
+2019-10-31 11:29:44,336  INFO [main] BasePage:88 - Found Element By : By.xpath: //img[@id='mli_policy_i']
+2019-10-31 11:29:44,336  INFO [main] BasePage:83 - Trying to find Element By : By.xpath: //img[@id='mli_policy_i']
+2019-10-31 11:29:44,350  INFO [main] BasePage:88 - Found Element By : By.xpath: //img[@id='mli_policy_i']
+2019-10-31 11:29:44,546  INFO [main] BasePage:83 - Trying to find Element By : By.xpath: //ul[@id='mli_policy_IMenu']//li[1]
+2019-10-31 11:29:44,562  INFO [main] BasePage:88 - Found Element By : By.xpath: //ul[@id='mli_policy_IMenu']//li[1]
+2019-10-31 11:29:44,562  INFO [main] BasePage:83 - Trying to find Element By : By.xpath: //ul[@id='mli_policy_IMenu']//li[1]
+2019-10-31 11:29:44,577  INFO [main] BasePage:88 - Found Element By : By.xpath: //ul[@id='mli_policy_IMenu']//li[1]
+2019-10-31 11:29:44,577  INFO [main] BasePage:83 - Trying to find Element By : By.xpath: //ul[@id='mli_policy_IMenu']//li[1]
+2019-10-31 11:29:44,591  INFO [main] BasePage:88 - Found Element By : By.xpath: //ul[@id='mli_policy_IMenu']//li[1]
+2019-10-31 11:29:44,745  INFO [main] BasePage:83 - Trying to find Element By : By.xpath: //input[@id='customerid_ledit']
+2019-10-31 11:29:44,765  INFO [main] BasePage:88 - Found Element By : By.xpath: //input[@id='customerid_ledit']
+2019-10-31 11:29:44,765  INFO [main] BasePage:83 - Trying to find Element By : By.xpath: //input[@id='customerid_ledit']
+2019-10-31 11:29:44,778  INFO [main] BasePage:88 - Found Element By : By.xpath: //input[@id='customerid_ledit']
+2019-10-31 11:29:44,778  INFO [main] BasePage:83 - Trying to find Element By : By.xpath: //input[@id='customerid_ledit']
+2019-10-31 11:29:44,792  INFO [main] BasePage:88 - Found Element By : By.xpath: //input[@id='customerid_ledit']
+2019-10-31 11:29:44,812  INFO [main] BasePage:83 - Trying to find Element By : By.xpath: //img[@id='customerid_i']
+2019-10-31 11:29:44,827  INFO [main] BasePage:88 - Found Element By : By.xpath: //img[@id='customerid_i']
+2019-10-31 11:29:44,828  INFO [main] BasePage:83 - Trying to find Element By : By.xpath: //img[@id='customerid_i']
+2019-10-31 11:29:44,842  INFO [main] BasePage:88 - Found Element By : By.xpath: //img[@id='customerid_i']
+2019-10-31 11:29:45,350  INFO [main] BasePage:83 - Trying to find Element By : By.xpath: //ul[@id='customerid_IMenu']//li[1]
+2019-10-31 11:29:45,377  INFO [main] BasePage:88 - Found Element By : By.xpath: //ul[@id='customerid_IMenu']//li[1]
+2019-10-31 11:29:45,378  INFO [main] BasePage:83 - Trying to find Element By : By.xpath: //ul[@id='customerid_IMenu']//li[1]
+2019-10-31 11:29:45,395  INFO [main] BasePage:88 - Found Element By : By.xpath: //ul[@id='customerid_IMenu']//li[1]
+2019-10-31 11:29:45,395  INFO [main] BasePage:83 - Trying to find Element By : By.xpath: //ul[@id='customerid_IMenu']//li[1]
+2019-10-31 11:29:45,410  INFO [main] BasePage:88 - Found Element By : By.xpath: //ul[@id='customerid_IMenu']//li[1]
+2019-10-31 11:29:45,628  INFO [main] BasePage:83 - Trying to find Element By : By.xpath: //label[@id='Touchpoint_label']
+2019-10-31 11:29:45,686  INFO [main] BasePage:88 - Found Element By : By.xpath: //label[@id='Touchpoint_label']
+2019-10-31 11:29:45,686  INFO [main] BasePage:83 - Trying to find Element By : By.xpath: //label[@id='Touchpoint_label']
+2019-10-31 11:29:45,705  INFO [main] BasePage:88 - Found Element By : By.xpath: //label[@id='Touchpoint_label']
+2019-10-31 11:29:45,705  INFO [main] BasePage:83 - Trying to find Element By : By.xpath: //label[@id='Touchpoint_label']
+2019-10-31 11:29:45,728  INFO [main] BasePage:88 - Found Element By : By.xpath: //label[@id='Touchpoint_label']
+2019-10-31 11:29:45,757  INFO [main] BasePage:83 - Trying to find Element By : By.id: mli_touchpoint_i
+2019-10-31 11:29:45,767  INFO [main] BasePage:88 - Found Element By : By.id: mli_touchpoint_i
+2019-10-31 11:29:45,782  INFO [main] BasePage:83 - Trying to find Element By : By.tagName: option
+2019-10-31 11:29:45,801  INFO [main] BasePage:88 - Found Element By : By.tagName: option
+2019-10-31 11:29:45,823  INFO [main] BasePage:43 - Trying to click on: [[[[ChromeDriver: chrome on XP (975f4b25642b48aa4e6e8b1720844130)] -> id: mli_touchpoint_i]] -> tag name: option]
+2019-10-31 11:29:45,873  INFO [main] BasePage:48 - Clicked on: [[[[ChromeDriver: chrome on XP (975f4b25642b48aa4e6e8b1720844130)] -> id: mli_touchpoint_i]] -> tag name: option]
+2019-10-31 11:29:45,874  INFO [main] BasePage:83 - Trying to find Element By : By.xpath: //label[@id='Verification Result_label']
+2019-10-31 11:29:45,918  INFO [main] BasePage:88 - Found Element By : By.xpath: //label[@id='Verification Result_label']
+2019-10-31 11:29:45,918  INFO [main] BasePage:83 - Trying to find Element By : By.xpath: //label[@id='Verification Result_label']
+2019-10-31 11:29:45,931  INFO [main] BasePage:88 - Found Element By : By.xpath: //label[@id='Verification Result_label']
+2019-10-31 11:29:45,931  INFO [main] BasePage:83 - Trying to find Element By : By.xpath: //label[@id='Verification Result_label']
+2019-10-31 11:29:45,944  INFO [main] BasePage:88 - Found Element By : By.xpath: //label[@id='Verification Result_label']
+2019-10-31 11:29:45,958  INFO [main] BasePage:83 - Trying to find Element By : By.id: mli_verificationresult_i
+2019-10-31 11:29:45,968  INFO [main] BasePage:88 - Found Element By : By.id: mli_verificationresult_i
+2019-10-31 11:29:45,987  INFO [main] BasePage:83 - Trying to find Element By : By.tagName: option
+2019-10-31 11:29:46,003  INFO [main] BasePage:88 - Found Element By : By.tagName: option
+2019-10-31 11:29:46,061  INFO [main] BasePage:43 - Trying to click on: [[[[ChromeDriver: chrome on XP (975f4b25642b48aa4e6e8b1720844130)] -> id: mli_verificationresult_i]] -> tag name: option]
+2019-10-31 11:29:46,134  INFO [main] BasePage:48 - Clicked on: [[[[ChromeDriver: chrome on XP (975f4b25642b48aa4e6e8b1720844130)] -> id: mli_verificationresult_i]] -> tag name: option]
+2019-10-31 11:29:46,135  INFO [main] BasePage:83 - Trying to find Element By : By.xpath: //label[@id='Case Category_label']
+2019-10-31 11:29:46,180  INFO [main] BasePage:88 - Found Element By : By.xpath: //label[@id='Case Category_label']
+2019-10-31 11:29:46,180  INFO [main] BasePage:83 - Trying to find Element By : By.xpath: //label[@id='Case Category_label']
+2019-10-31 11:29:46,196  INFO [main] BasePage:88 - Found Element By : By.xpath: //label[@id='Case Category_label']
+2019-10-31 11:29:46,197  INFO [main] BasePage:83 - Trying to find Element By : By.xpath: //label[@id='Case Category_label']
+2019-10-31 11:29:46,213  INFO [main] BasePage:88 - Found Element By : By.xpath: //label[@id='Case Category_label']
+2019-10-31 11:29:46,232  INFO [main] BasePage:83 - Trying to find Element By : By.id: mli_casecategory_i
+2019-10-31 11:29:46,245  INFO [main] BasePage:88 - Found Element By : By.id: mli_casecategory_i
+2019-10-31 11:29:46,264  INFO [main] BasePage:83 - Trying to find Element By : By.tagName: option
+2019-10-31 11:29:46,280  INFO [main] BasePage:88 - Found Element By : By.tagName: option
+2019-10-31 11:29:46,320  INFO [main] BasePage:43 - Trying to click on: [[[[ChromeDriver: chrome on XP (975f4b25642b48aa4e6e8b1720844130)] -> id: mli_casecategory_i]] -> tag name: option]
+2019-10-31 11:29:46,408  INFO [main] BasePage:48 - Clicked on: [[[[ChromeDriver: chrome on XP (975f4b25642b48aa4e6e8b1720844130)] -> id: mli_casecategory_i]] -> tag name: option]
+2019-10-31 11:29:46,408  INFO [main] BasePage:83 - Trying to find Element By : By.xpath: //input[@id='mli_tasksubjectid_ledit']
+2019-10-31 11:29:46,450  INFO [main] BasePage:88 - Found Element By : By.xpath: //input[@id='mli_tasksubjectid_ledit']
+2019-10-31 11:29:46,456  INFO [main] BasePage:83 - Trying to find Element By : By.xpath: //img[@id='mli_tasksubjectid_i']
+2019-10-31 11:29:46,476  INFO [main] BasePage:88 - Found Element By : By.xpath: //img[@id='mli_tasksubjectid_i']
+2019-10-31 11:29:46,476  INFO [main] BasePage:83 - Trying to find Element By : By.xpath: //img[@id='mli_tasksubjectid_i']
+2019-10-31 11:29:46,494  INFO [main] BasePage:88 - Found Element By : By.xpath: //img[@id='mli_tasksubjectid_i']
+2019-10-31 11:29:46,495  INFO [main] BasePage:83 - Trying to find Element By : By.xpath: //img[@id='mli_tasksubjectid_i']
+2019-10-31 11:29:46,509  INFO [main] BasePage:88 - Found Element By : By.xpath: //img[@id='mli_tasksubjectid_i']
+2019-10-31 11:29:46,845  INFO [main] BasePage:83 - Trying to find Element By : By.xpath: //ul[@id='mli_tasksubjectid_IMenu']//li[1]
+2019-10-31 11:29:46,863  INFO [main] BasePage:88 - Found Element By : By.xpath: //ul[@id='mli_tasksubjectid_IMenu']//li[1]
+2019-10-31 11:29:46,897  INFO [main] BasePage:83 - Trying to find Element By : By.xpath: //ul[@id='mli_tasksubjectid_IMenu']//li[1]
+2019-10-31 11:29:46,917  INFO [main] BasePage:88 - Found Element By : By.xpath: //ul[@id='mli_tasksubjectid_IMenu']//li[1]
+2019-10-31 11:29:46,918  INFO [main] BasePage:83 - Trying to find Element By : By.xpath: //ul[@id='mli_tasksubjectid_IMenu']//li[1]
+2019-10-31 11:29:46,933  INFO [main] BasePage:88 - Found Element By : By.xpath: //ul[@id='mli_tasksubjectid_IMenu']//li[1]
+2019-10-31 11:29:47,324  INFO [main] BasePage:83 - Trying to find Element By : By.xpath: //li[@id='incident|NoRelationship|Form|Mscrm.Form.incident.Save']//span//span
+2019-10-31 11:29:47,352  INFO [main] BasePage:88 - Found Element By : By.xpath: //li[@id='incident|NoRelationship|Form|Mscrm.Form.incident.Save']//span//span
+2019-10-31 11:29:47,388  INFO [main] BasePage:83 - Trying to find Element By : By.xpath: //li[@id='incident|NoRelationship|Form|Mscrm.Form.incident.Save']//span//span
+2019-10-31 11:29:47,398  INFO [main] BasePage:88 - Found Element By : By.xpath: //li[@id='incident|NoRelationship|Form|Mscrm.Form.incident.Save']//span//span
+2019-10-31 11:29:47,398  INFO [main] BasePage:83 - Trying to find Element By : By.xpath: //li[@id='incident|NoRelationship|Form|Mscrm.Form.incident.Save']//span//span
+2019-10-31 11:29:47,410  INFO [main] BasePage:88 - Found Element By : By.xpath: //li[@id='incident|NoRelationship|Form|Mscrm.Form.incident.Save']//span//span
+2019-10-31 11:29:47,457  INFO [main] BasePage:83 - Trying to find Element By : By.xpath: //li[@id='incident|NoRelationship|Form|Mscrm.Form.incident.Save']//span//span
+2019-10-31 11:29:47,468  INFO [main] BasePage:88 - Found Element By : By.xpath: //li[@id='incident|NoRelationship|Form|Mscrm.Form.incident.Save']//span//span
+2019-10-31 11:29:47,468  INFO [main] BasePage:83 - Trying to find Element By : By.xpath: //li[@id='incident|NoRelationship|Form|Mscrm.Form.incident.Save']//span//span
+2019-10-31 11:29:47,479  INFO [main] BasePage:88 - Found Element By : By.xpath: //li[@id='incident|NoRelationship|Form|Mscrm.Form.incident.Save']//span//span
+2019-10-31 11:29:47,479  INFO [main] BasePage:43 - Trying to click on: [[ChromeDriver: chrome on XP (975f4b25642b48aa4e6e8b1720844130)] -> xpath: //li[@id='incident|NoRelationship|Form|Mscrm.Form.incident.Save']//span//span]
+2019-10-31 11:29:47,547  INFO [main] BasePage:48 - Clicked on: [[ChromeDriver: chrome on XP (975f4b25642b48aa4e6e8b1720844130)] -> xpath: //li[@id='incident|NoRelationship|Form|Mscrm.Form.incident.Save']//span//span]
+2019-10-31 11:29:47,547  INFO [main] BasePage:83 - Trying to find Element By : By.xpath: //li[@id='incident|NoRelationship|Form|mli.incident.SaveAndSoute.Button']//span//span
+2019-10-31 11:29:48,917  INFO [main] BasePage:88 - Found Element By : By.xpath: //li[@id='incident|NoRelationship|Form|mli.incident.SaveAndSoute.Button']//span//span
+2019-10-31 11:29:49,694  INFO [main] BasePage:83 - Trying to find Element By : By.xpath: //li[@id='incident|NoRelationship|Form|Mscrm.Form.incident.Save']//span//span
+2019-10-31 11:29:49,710  INFO [main] BasePage:88 - Found Element By : By.xpath: //li[@id='incident|NoRelationship|Form|Mscrm.Form.incident.Save']//span//span
+2019-10-31 11:29:49,734  INFO [main] BasePage:83 - Trying to find Element By : By.xpath: //li[@id='incident|NoRelationship|Form|Mscrm.Form.incident.Save']//span//span
+2019-10-31 11:29:49,745  INFO [main] BasePage:88 - Found Element By : By.xpath: //li[@id='incident|NoRelationship|Form|Mscrm.Form.incident.Save']//span//span
+2019-10-31 11:29:49,745  INFO [main] BasePage:83 - Trying to find Element By : By.xpath: //li[@id='incident|NoRelationship|Form|Mscrm.Form.incident.Save']//span//span
+2019-10-31 11:29:49,757  INFO [main] BasePage:88 - Found Element By : By.xpath: //li[@id='incident|NoRelationship|Form|Mscrm.Form.incident.Save']//span//span
+2019-10-31 11:29:49,789  INFO [main] BasePage:83 - Trying to find Element By : By.xpath: //li[@id='incident|NoRelationship|Form|mli.incident.SaveAndSoute.Button']//span//span
+2019-10-31 11:29:49,802  INFO [main] BasePage:88 - Found Element By : By.xpath: //li[@id='incident|NoRelationship|Form|mli.incident.SaveAndSoute.Button']//span//span
+2019-10-31 11:29:49,803  INFO [main] BasePage:83 - Trying to find Element By : By.xpath: //li[@id='incident|NoRelationship|Form|mli.incident.SaveAndSoute.Button']//span//span
+2019-10-31 11:29:49,815  INFO [main] BasePage:88 - Found Element By : By.xpath: //li[@id='incident|NoRelationship|Form|mli.incident.SaveAndSoute.Button']//span//span
+2019-10-31 11:29:49,815  INFO [main] BasePage:43 - Trying to click on: [[ChromeDriver: chrome on XP (975f4b25642b48aa4e6e8b1720844130)] -> xpath: //li[@id='incident|NoRelationship|Form|mli.incident.SaveAndSoute.Button']//span//span]
+2019-10-31 11:29:50,056  INFO [main] BasePage:48 - Clicked on: [[ChromeDriver: chrome on XP (975f4b25642b48aa4e6e8b1720844130)] -> xpath: //li[@id='incident|NoRelationship|Form|mli.incident.SaveAndSoute.Button']//span//span]
+2019-10-31 11:29:54,268  INFO [main] BasePage:83 - Trying to find Element By : By.xpath: //button[@id='butBegin']
+2019-10-31 11:29:54,280  INFO [main] BasePage:88 - Found Element By : By.xpath: //button[@id='butBegin']
+2019-10-31 11:29:54,322  INFO [main] BasePage:83 - Trying to find Element By : By.xpath: //button[@id='butBegin']
+2019-10-31 11:29:54,335  INFO [main] BasePage:88 - Found Element By : By.xpath: //button[@id='butBegin']
+2019-10-31 11:29:54,335  INFO [main] BasePage:83 - Trying to find Element By : By.xpath: //button[@id='butBegin']
+2019-10-31 11:29:54,345  INFO [main] BasePage:88 - Found Element By : By.xpath: //button[@id='butBegin']
+2019-10-31 11:29:54,345  INFO [main] BasePage:43 - Trying to click on: [[ChromeDriver: chrome on XP (975f4b25642b48aa4e6e8b1720844130)] -> xpath: //button[@id='butBegin']]
+2019-10-31 11:29:54,446  INFO [main] BasePage:48 - Clicked on: [[ChromeDriver: chrome on XP (975f4b25642b48aa4e6e8b1720844130)] -> xpath: //button[@id='butBegin']]
+2019-10-31 11:29:54,513  INFO [main] BasePage:83 - Trying to find Element By : By.xpath: //label[contains(@id,'Status_label')]
+2019-10-31 11:29:54,533  INFO [main] BasePage:88 - Found Element By : By.xpath: //label[contains(@id,'Status_label')]
+2019-10-31 11:29:54,533  INFO [main] BasePage:83 - Trying to find Element By : By.xpath: //label[contains(@id,'Status_label')]
+2019-10-31 11:29:54,548  INFO [main] BasePage:88 - Found Element By : By.xpath: //label[contains(@id,'Status_label')]
+2019-10-31 11:29:54,567  INFO [main] BasePage:83 - Trying to find Element By : By.xpath: //label[contains(@id,'Status_label')]
+2019-10-31 11:29:54,581  INFO [main] BasePage:88 - Found Element By : By.xpath: //label[contains(@id,'Status_label')]
+2019-10-31 11:29:54,581  INFO [main] BasePage:83 - Trying to find Element By : By.xpath: //label[contains(@id,'Status_label')]
+2019-10-31 11:29:54,594  INFO [main] BasePage:88 - Found Element By : By.xpath: //label[contains(@id,'Status_label')]
+2019-10-31 11:29:54,611  INFO [main] BasePage:83 - Trying to find Element By : By.xpath: //li[@id='moreCommands']//span
+2019-10-31 11:29:54,621  INFO [main] BasePage:88 - Found Element By : By.xpath: //li[@id='moreCommands']//span
+2019-10-31 11:29:55,021  INFO [main] BasePage:83 - Trying to find Element By : By.xpath: //span[@id='navTabLogoTextId']//img
+2019-10-31 11:29:55,032  INFO [main] BasePage:88 - Found Element By : By.xpath: //span[@id='navTabLogoTextId']//img
+2019-10-31 11:29:55,032  INFO [main] BasePage:83 - Trying to find Element By : By.xpath: //span[@id='navTabLogoTextId']//img
+2019-10-31 11:29:55,043  INFO [main] BasePage:88 - Found Element By : By.xpath: //span[@id='navTabLogoTextId']//img
+2019-10-31 11:29:55,073  INFO [main] BasePage:83 - Trying to find Element By : By.xpath: //span[@id='navTabLogoTextId']//img
+2019-10-31 11:29:55,084  INFO [main] BasePage:88 - Found Element By : By.xpath: //span[@id='navTabLogoTextId']//img
+2019-10-31 11:29:55,084  INFO [main] BasePage:83 - Trying to find Element By : By.xpath: //span[@id='navTabLogoTextId']//img
+2019-10-31 11:29:55,094  INFO [main] BasePage:88 - Found Element By : By.xpath: //span[@id='navTabLogoTextId']//img
+2019-10-31 11:29:55,095  INFO [main] BasePage:43 - Trying to click on: [[ChromeDriver: chrome on XP (975f4b25642b48aa4e6e8b1720844130)] -> xpath: //span[@id='navTabLogoTextId']//img]
+2019-10-31 11:29:55,191  INFO [main] BasePage:48 - Clicked on: [[ChromeDriver: chrome on XP (975f4b25642b48aa4e6e8b1720844130)] -> xpath: //span[@id='navTabLogoTextId']//img]
+2019-10-31 11:29:55,645 DEBUG [main] cache:45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+2019-10-31 11:29:55,647 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+2019-10-31 11:29:55,648 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2019-10-31 11:29:55,650 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2019-10-31 11:29:55,650 DEBUG [main] cache:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/aliridh/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2019-10-31 11:29:55,998 DEBUG [main] cache:45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+2019-10-31 11:29:55,999 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+2019-10-31 11:29:56,000 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2019-10-31 11:29:56,000 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2019-10-31 11:29:56,000 DEBUG [main] cache:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/aliridh/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite guice-stage="DEVELOPMENT" name="Failed suite [Workflow]">
+  <listeners>
+    <listener class-name="com.icrm.qa.extentReportListeners.ExtentReportNG"/>
+  </listeners>
+  <test thread-count="5" name="CreateCase(failed)">
+    <classes>
+      <class name="com.icrm.qa.testcases.CreateCase">
+        <methods>
+          <include name="setUp"/>
+          <include name="createCase"/>
+        </methods>
+      </class> <!-- com.icrm.qa.testcases.CreateCase -->
+    </classes>
+  </test> <!-- CreateCase(failed) -->
+</suite> <!-- Failed suite [Workflow] -->
